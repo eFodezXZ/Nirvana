@@ -1,8 +1,23 @@
+body {
+font-style: oblique;
+}
+
 h1 {
     background-color: blue;
     font-size: xx-large;
 }
 
-p {
-    background-color: yellow;
+h2 {
+    background-color: blueviolet;
+    font-size: xx-large;
+}
+
+h3 {
+    background-color: aqua;
+    font-size: xx-large;
+}
+
+h4 {
+    background-color: brown;
+    font-size: xx-large;
 }
