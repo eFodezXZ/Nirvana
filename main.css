@@ -3,11 +3,22 @@ body {
  background-repeat: no-repeat;
  background-attachment: fixed;
  background-size: cover;
- font-style: oblique;
+}
+
+img {
+ width:400px;
+ height:400px;
 }
 
 h1 {
  background-color: blue;
+ font-size: xx-large;
+ text-align: center;
+ color: white;
+}
+
+.ÁlbunsH1 {
+ background-color: gray;
  font-size: xx-large;
  text-align: center;
  color: white;
